@@ -1,0 +1,6 @@
+Computes minimum distance to a tesselated wall using
+ADT based distance search
+
+to Build
+./build.sh
+should build
